@@ -1,0 +1,108 @@
+{
+  "title": "Mercazim",
+ "MARKERS_DATA1": [
+  {
+    "id": "1",
+    "latitude": 31.260260,
+    "longitude": 34.787500,
+    "type":"מרכז הכוון",
+    "name": "מרכז הכוון באר שבע",
+    "direction": "יהודה הלוי 111 באר שבע",
+    "events":[{ "id":"1" , "act":"הרצאה", "days": "שני, רביעי" , "time":"14:00 - 12:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"},
+     { "id":"2" , "act":"פעילות", "days": "שני, רביעי" , "time":"12:00 - 11:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"},
+     { "id":"3" , "act":"הופעה", "days": "שלישי" , "time":"16:00 - 14:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"}],
+     "img": "require('../aa.png')",
+     "color": "blue"
+  },
+  {
+    "id": "2",
+    "latitude": 31.260260,
+    "longitude": 34.787500,
+    "type":"מרכז הכוון",
+    "name": "הרצאה במרכז הכוון באר שבע",
+    "direction": "יהודה הלוי 111 באר שבע",
+    "events":[{ "id":"1" , "act":"הרצאה", "days": "שני, רביעי" , "time":"14:00 - 12:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"}],
+     "img": "require('../aa.png')",
+     "color": "blue"
+  },
+  {
+    "id": "3",
+    "latitude": 31.260260,
+    "longitude": 34.787500,
+    "type":"מרכז הכוון",
+    "name": "פעילות במרכז הכוון באר שבע",
+    "direction": "יהודה הלוי 111 באר שבע",
+    "events":[{ "id":"2" , "act":"פעילות", "days": "שני, רביעי" , "time":"12:00 - 11:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"}],
+     "img": "require('../aa.png')",
+     "color": "blue"
+  },
+  {
+    "id": "4",
+    "latitude": 31.260260,
+    "longitude": 34.787500,
+    "type":"מרכז הכוון",
+    "name": "הופעה במרכז הכוון באר שבע",
+    "direction": "יהודה הלוי 111 באר שבע",
+    "events":[{ "id":"3" , "act":"הופעה", "days": "שלישי" , "time":"16:00 - 14:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"}],
+     "img": "require('../aa.png')",
+     "color": "blue"
+  },
+     {
+       "id": "5",
+       "latitude": 31.764360,
+       "longitude": 35.207760,      
+       "type":"מרכז הכוון",
+       "name": "מרכז הכוון ירושלים",
+       "direction": "רחוב הפלמ''ח 53, ירושלים",
+       "events":[{ "id":"1" , "act":"הרצאה", "days": "שני, רביעי" , "time":"18:00 - 16:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"}],
+       "img": "require('../aa.png')",
+       "color": "blue"
+     },
+     {
+       "id": "6",
+       "latitude": 32.067460,
+       "longitude": 34.774040,
+       "type":"מרכז הכוון",
+       "name": "מרכז הכוון תל אביב",
+       "direction": "תל אביב, בלפור 14, תל אביב",
+       "events":[{ "id":"1" , "act":"הרצאה", "days": "שני, רביעי" , "time":"14:00 - 16:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"},
+        { "id":"2" , "act":"פעילות", "days": "שני, רביעי" , "time":"14:00 - 16:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"},
+        { "id":"3" , "act":"הופעה", "days": "שני, רביעי" , "time":"14:00 - 16:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"}],
+        "img": "require('../aa.png')",
+        "color": "blue"       
+     },
+     {
+      "id": "7",
+      "latitude": 32.067460,
+      "longitude": 34.774040,
+      "type":" פעילות במרכז הכוון",
+      "name": "פעילות במרכז הכוון תל אביב",
+      "direction": "תל אביב, בלפור 14, תל אביב",
+      "events":[{ "id":"2" , "act":"פעילות", "days": "שני, רביעי" , "time":"14:00 - 16:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"}],
+       "img": "require('../aa.png')",
+       "color": "blue"       
+    },
+    {
+      "id": "8",
+      "latitude": 32.067460,
+      "longitude": 34.774040,
+      "type":"הרצאה במרכז הכוון",
+      "name": "הרצאה במרכז הכוון תל אביב",
+      "direction": "תל אביב, בלפור 14, תל אביב",
+      "events":[{ "id":"1" , "act":"הרצאה", "days": "שני, רביעי" , "time":"14:00 - 16:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"}],
+       "img": "require('../aa.png')",
+       "color": "blue"       
+    },
+    {
+      "id": "9",
+      "latitude": 32.067460,
+      "longitude": 34.774040,
+      "type":"הופעה במרכז הכוון",
+      "name": "הופעה במרכז הכוון תל אביב",
+      "direction": "תל אביב, בלפור 14, תל אביב",
+      "events":[{ "id":"3" , "act":"הופעה", "days": "שני, רביעי" , "time":"14:00 - 16:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"}],
+       "img": "require('../aa.png')",
+       "color": "blue"       
+    }
+   ]
+ }

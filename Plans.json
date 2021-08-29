@@ -1,0 +1,96 @@
+{
+    "title": "PLANS",
+   "PLANS": [
+       {
+         "id": "11",
+         "latitude": 31.907580,
+         "longitude": 35.007490,
+         "type":"פעילות והרצאה",
+         "name": "עיריית מודיעין",
+         "direction": "תלתן 1, מודיעין מכבים רעות, 7176404",
+         "events":[{ "id":"1" , "act":"הרצאה", "days": "שני, רביעי" , "time":"14:00 - 16:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"},
+          { "id":"2" , "act":"פעילות", "days": "ראשון - חמישי" , "time":"10:00 - 13:30", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"}],
+         "img": "require('../aa.png')",
+         "color": "pink"
+       },
+       {
+        "id": "12",
+        "latitude": 31.907580,
+        "longitude": 35.007490,
+        "type":"הרצאה",
+        "name": "הרצאה בעיריית מודיעין",
+        "direction": "תלתן 1, מודיעין מכבים רעות, 7176404",
+        "events":[{ "id":"1" , "act":"הרצאה", "days": "שני, רביעי" , "time":"14:00 - 16:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"}],
+        "img": "require('../aa.png')",
+        "color": "pink"
+      },
+      {
+        "id": "13",
+        "latitude": 31.907580,
+        "longitude": 35.007490,
+        "type":"פעילות",
+        "name": "פעילות בעיריית מודיעין",
+        "direction": "תלתן 1, מודיעין מכבים רעות, 7176404",
+        "events":[{ "id":"2" , "act":"פעילות", "days": "ראשון - חמישי" , "time":"10:00 - 13:30", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"}],
+        "img": "require('../aa.png')",
+        "color": "pink"
+      },
+       {
+         "id": "14",
+         "latitude": 31.899160,
+         "longitude": 35.007410,
+         "type":"ספורט ומופע",
+         "name": "מודיעין, מרכז מסחרי",
+         "direction": "מודיעין",
+         "events":[{ "id":"1" , "act":"כדוריד (ספורט)",  "days": "שני, רביעי" , "time":"14:00 - 16:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"},
+          { "id":"2" , "act":"כדורגל", "days": "ראשון - חמישי" , "time":"10:00 - 13:30", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"},
+          { "id":"3" , "act":"מופע", "days": "שלישי" , "time":"19:00 - 21:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"}],
+         "img": "require('../aa.png')",
+         "color": "pink"
+       },
+       {
+        "id": "15",
+        "latitude": 31.899160,
+        "longitude": 35.007410,
+        "type":"פעילות",
+        "name": "כדוריד (ספורט) מודיעין, מרכז מסחרי",
+        "direction": "מודיעין",
+        "events":[{ "id":"1" , "act":"כדוריד (ספורט)",  "days": "שני, רביעי" , "time":"14:00 - 16:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"}],
+        "img": "require('../aa.png')",
+        "color": "pink"
+      },
+      {
+        "id": "16",
+        "latitude": 31.899160,
+        "longitude": 35.007410,
+        "type":"כדורגל",
+        "name": "כדורגל (ספורט) במודיעין, מרכז מסחרי",
+        "direction": "מודיעין",
+        "events":[{ "id":"2" , "act":"כדורגל", "days": "ראשון - חמישי" , "time":"10:00 - 13:30", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"}],
+        "img": "require('../aa.png')",
+        "color": "pink"
+      },
+      {
+        "id": "17",
+        "latitude": 31.899160,
+        "longitude": 35.007410,
+        "type":"מופע",
+        "name": "מופע במודיעין, מרכז מסחרי",
+        "direction": "מודיעין",
+        "events":[{ "id":"3" , "act":"מופע", "days": "שלישי" , "time":"19:00 - 21:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"}],
+        "img": "require('../aa.png')",
+        "color": "pink"
+      },
+      {
+        "id": "18",
+        "latitude":  32.012950,
+        "longitude": 34.958874,
+        "type":"גולף לוותיקים (ספורט)",
+        "name": "פארק מודיעין",
+        "direction": "מודיעין",
+        "events":[{ "id":"3" , "act":"גולף לוותיקים (ספורט)", "days": "שלישי" , "time":"12:00 - 15:00", "img": "require('../aa.png')", "url": "https://www.gov.il/he/departments/topics/sport"}],
+        "img": "require('../aa.png')",
+        "color": "pink"
+      }
+     ]
+   }
